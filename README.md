@@ -30,4 +30,4 @@
 
 - :zap: In my free time, I solve problems on Codeforces, Leetcode and AtCoder.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/whygostev)
