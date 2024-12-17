@@ -46,3 +46,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion"  alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
