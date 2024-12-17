@@ -6,10 +6,10 @@
   <a href="https://vk.com/guest2005">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://codeforces.com/">
     <img src="https://img.shields.io/badge/codeforces-red?style=for-the-badge&logo=codeforces&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://t.me/whygostev">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
