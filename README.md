@@ -13,3 +13,5 @@
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=gulyonatyoma&style=flat-square&color=blue" alt=""/>
